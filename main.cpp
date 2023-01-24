@@ -58,7 +58,6 @@ void ausgabe()
     LED = !LED;
 }
 
-
 int main()
 {
     init();
